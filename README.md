@@ -2,7 +2,7 @@
 ![alt text](1-1.png)
 
 Вывод нормального веса 
-![alt text](2-1.png)
+![alt text](2-1-1.png)
 
 Вывод ожирения
-![alt text](<1 (1)-1.png>)
+![alt text](<1 (1)-1-1.png>)
